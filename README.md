@@ -1,2 +1,3 @@
 # hello-world
-First one
+Hi Hubot,
+Welcome to earth.
